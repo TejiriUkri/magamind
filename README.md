@@ -1,0 +1,2 @@
+# magamind
+My projects 
